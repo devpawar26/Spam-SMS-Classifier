@@ -34,3 +34,4 @@ Follow the steps in the notebook to
 1. preprocess the data
 2. train the model
 3. evaluate its performance.
+Project by: https://youtu.be/YncZ0WwxyzU?si=cbVNJEUFM90gQ9hO
